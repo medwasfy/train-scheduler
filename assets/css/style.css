@@ -1,0 +1,17 @@
+h5 {
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    color: #fff;
+}
+.panel-heading {
+    background: lightgray;
+    text-align: center;
+    padding: 8px;
+}
+.jumbotron{
+    background-image: url("../images/train.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+}
